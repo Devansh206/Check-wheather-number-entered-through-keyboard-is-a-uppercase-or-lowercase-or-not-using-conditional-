@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<conio.h>
 int main()
-{
+
   char ch;
   printf("enter the character");
   scanf("%c",ch);
   (ch>='a'&&ch<='z')?printf("character is lower case"):(ch>='A'&&ch<='Z')?printf("character is uppercase"):printf("character is not a upper case  not a lower case");
   getch();
-  return 0;
+  return 0
   }
