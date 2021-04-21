@@ -1,0 +1,1 @@
+# Check-wheather-number-entered-through-keyboard-is-a-uppercase-or-lowercase-or-not-using-conditional-
